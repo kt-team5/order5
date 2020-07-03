@@ -53,6 +53,6 @@ spring:
 
 api:
   url:
-    gateway5: http://gateway5:8080
-    seat5: http://seat5:8080
-    payment5: http://payment5:8080
+    gateway: http://gateway5:8080
+    seat: http://seat5:8080
+    pay: http://payment5:8080
